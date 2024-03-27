@@ -12,7 +12,7 @@ import { db, storage } from "../config/firebase.config";
 import { adminIds, initialTags } from "../utils/helpers";
 import { deleteDoc, doc, serverTimestamp, setDoc } from "firebase/firestore";
 import useTemplates from "../hooks/UseTemplates";
-import { UseUser } from "../hooks/UseUser";
+import UseUser from "../hooks/UseUser";
 import { useNavigate } from "react-router-dom";
 
 const CreateTemplate = () => {
