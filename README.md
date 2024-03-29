@@ -1,8 +1,3 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Resume Forge is a web application that simplifies the resume creation process. It provides a user-friendly interface for designing professional resumes. The project leverages Firebase for authentication and utilizes Tailwind CSS for styling. Currently, the application offers one resume design, and adding more resumes is planned for future updates.
